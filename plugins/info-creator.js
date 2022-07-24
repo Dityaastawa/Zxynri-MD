@@ -3,11 +3,11 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᴹᴿ᭄ DaniOffcོ_1ঔৣ꧂
-item.ORG: ᴹᴿ᭄ DaniOffcོ_1ঔৣ꧂
+FN: ᴹᴿ᭄ Dityaastawaঔৣ꧂
+item.ORG: ᴹᴿ᭄ Dityaastawaঔৣ꧂
 item1.TEL;waid=6281251549899:6281251549899@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
-item2.EMAIL;type=INTERNET: kecedani257@gmail.com
+item2.EMAIL;type=INTERNET: dityaastawa2@gmail.com
 item2.X-ABLabel:📧Email
 item3.ADR:;;🎍KANDANGAN;;;;
 item3.X-ABADR:ac
@@ -24,7 +24,7 @@ const sentMsg  = await conn.sendMessage(
         }
     }
 )
-let dani = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg'
+let dani = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg'
 await conn.send3ButtonImg(m.chat, dani, "*Hai kak👋,  Itu nomor owner gw…*", '📮: jngn di spam kack', 'Source code', '.sc', 'Back', '.menu', 'Donasi', '.donasi', sentMsg)}
 handler.help = ['owner2', 'creator2']
 handler.tags = ['info']
