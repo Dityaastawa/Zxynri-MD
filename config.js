@@ -15,10 +15,10 @@ global.numberowner = '6285237596750' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/q.c.ditya' //ganti pakai Instagram mu
 global.github = 'https://github.com/Dityaastawa' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sc = 'https://youtu.be/-' //jngn ganti hargai creator
+global.ss = 'https://youtu.be/-' //jngn ganti hargai creator
+global.sss = 'https://youtu.be/-' //jngn ganti hargai creator
+global.yt = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg'
 global.dana = '085792429140' //ganti pakai nomor dana mu
 global.pulsa = '085792429140' //ganti pakai nomor pulsa mu
 global.gopay = '085792429148' //ganti pakai nomor Gopay mu
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'DaniBotz-Ofc'
-global.author = '@Dani Official'
+global.packname = 'Dityabotz-Md'
+global.author = '@Ditya Astawa'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
