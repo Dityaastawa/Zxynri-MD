@@ -21,7 +21,7 @@ global.sss = 'https://youtu.be/-' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg'
 global.dana = '085792429140' //ganti pakai nomor dana mu
 global.pulsa = '085792429140' //ganti pakai nomor pulsa mu
-global.gopay = '085792429148' //ganti pakai nomor Gopay mu
+global.gopay = '085792429140' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Dityabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
@@ -33,11 +33,11 @@ global.nomer = 'https://wa.me/6285237596750' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
+global.fotonya1 = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/12f52e87554a0c6178369.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
