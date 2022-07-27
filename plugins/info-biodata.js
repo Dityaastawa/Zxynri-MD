@@ -6,7 +6,7 @@ let krizyn = `
 ❑ *Nama* : Ditya Astawa
 ❑ *Umur* : 16 Tahun
 ❑ *Kelas* : 11 SMA
-❑ *Ulang Tahun* : 26 MEI 2006
+❑ *Ulang Tahun* : 29 MEI 2006
 ❑ *Alamat* : Indonesia, Bali, Jembrana
 •·––––––––––––––––––––––––––·•
 	`.trim()
